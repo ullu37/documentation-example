@@ -18,7 +18,7 @@ release = '0.1'
 extensions = ['myst_parser', "autodoc2"]
 
 autodoc2_packages = [
-    "multiply.py"
+    "src/multiply.py"
 ]
 
 templates_path = ['_templates']
